@@ -16,9 +16,9 @@ author_profile: true
 二、多模态遥感数据融合
 ===
 + 超分辨率重建、空谱融合、时空融合、时空谱一体化融合
-![avatar](/images/pointcloud.jpg)
+![avatar](/images/医学影像.jpg)
 
 三、遥感数据智能解译
 ===
 + 遥感数据智能解译
-![avatar](/images/pointcloud.jpg)
+![avatar](/images/医学影像.jpg)
