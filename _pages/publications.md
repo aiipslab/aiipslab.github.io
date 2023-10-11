@@ -9,8 +9,8 @@ author_profile: true
 
 | |
 | :---- |
-|**Ruixiang Li**, Haitao Zhao, X. Zhang, Xiaosan Ge, Zhanliang Yuan and Qin Zou. “[Automatic Matching of Multispectral Images Based on Nonlinear Diffusion of Image Structures]()”. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (2021). |
-|**李瑞祥**，赵海涛，葛小三，袁占良.多匹配策略融合的无人机影像匹配方法. 测绘科学, 2021, 46(3): 87-95. |
+|**Ruixiang Li**, Haitao Zhao, X. Zhang, Xiaosan Ge, Zhanliang Yuan and Qin Zou. “[Automatic Matching of Multispectral Images Based on Nonlinear Diffusion of Image Structures]()”. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022. |
+|**李瑞祥**，赵海涛，葛小三，袁占良.多匹配策略融合的无人机影像匹配方法. 测绘科学, 2021. |
 |王书涛,康旺,孔德明,王铁柱,李瑞祥.基于回归克里金的高分-1影像融合. 激光与光电子学进展, 2021. |
 
 会议论文
