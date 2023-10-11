@@ -1,12 +1,10 @@
 ---
 layout: single
-title: ""
+title: "成员介绍
+"
 permalink: /members/
 author_profile: true
 ---
-
-成员介绍
-===
 
 <span style="color: navy">教师</span>
 ---
