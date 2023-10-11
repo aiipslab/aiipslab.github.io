@@ -3,11 +3,11 @@ main:
   - title: "研究方向"
     url: /researchinterests/
 
+  - title: "科研团队"
+    url: /members/ 
+    
   - title: "科研成果"
     url: /publications/
-
-  - title: "科研团队"
-    url: /members/    
     
   - title: "招生信息"
     url: /enrollment/
