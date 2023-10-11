@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-===
-
 <span style="color: navy">教育经历</span>
 ---
 + 2022.09-2026.06&nbsp;&nbsp;博士&nbsp;武汉大学
