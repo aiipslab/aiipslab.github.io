@@ -7,6 +7,7 @@ author_profile: true
 
 <span style="color: navy">教师</span>
 ---
+
 | 姓名 | 单位 | 职称 | 研究方向 | 联系方式 |
 | :----: | :----: | :----: | :----: | :----: |
 | 李慕周 | 郑州大学 | 教授 | 多模态遥感数据融合与智能解译 | aiipslab@163.com |
@@ -14,6 +15,7 @@ author_profile: true
 
 <span style="color: navy">在读学生</span>
 ---
+
 | 姓名 | 年级 | 培养方式 | 研究方向 | 联系方式 |
 | :----: | :----: | :----: | :----: | :----: |
 | 徐雪丽 | 2019级 | 博士研究生 | 点云处理 | aiipslab@163.com |
@@ -22,6 +24,7 @@ author_profile: true
 
 <span style="color: navy">已毕业学生</span>
 ---
+
 | 姓名 | 入学年份 |毕业去向 | 联系方式 |
 | :----: | :----: |:----: | :----: |
 | 薛花 | 2015级硕士研究生 |郑州大学 | aiipslab@163.com |
