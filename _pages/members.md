@@ -4,6 +4,29 @@ title: ""
 permalink: /members/
 author_profile: true
 ---
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .teacher-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    width: 100%;
+  }
+</style>
+</head>
+<body>
+
+<div class="teacher-title">
+  <span style="color: navy">教师</span>
+</div>
+
+
 <span style="color: navy">教师</span>
 ---
 
