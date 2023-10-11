@@ -7,6 +7,7 @@ author_profile: true
 
 <span style="color: navy">期刊论文</span>
 ---
+
 | |
 | :---- |
 |**Ruixiang Li**, Haitao Zhao, X. Zhang, Xiaosan Ge, Zhanliang Yuan and Qin Zou. “[Automatic Matching of Multispectral Images Based on Nonlinear Diffusion of Image Structures]()”. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022. |
@@ -15,6 +16,7 @@ author_profile: true
 
 <span style="color: navy">会议论文</span>
 ---
+
 |  |
 | :---- |
 | **Xin Cao**, Mengfei Du, Yi Chen, Gege Zhang, Jun Zhang, Weitong Li, Kang Li※ and Fengjun Zhao※. "FISTA-NET: Deep Algorithm Unrolling for Cerenkov luminescence tomography". The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2023. (Oral presentation) |
@@ -23,6 +25,7 @@ author_profile: true
 
 <span style="color: navy">发明专利</span>
 ---
+
 |  |
 | :---- |
 | 耿国华;姚文敏;周明全;**曹欣**;吉晓瑶;刘景怡;刘喆;张军;褚彤。一种基于断裂面信息的兵马俑碎块拼接方法及系统。申请专利号：CN202110225329.8 |
