@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+CV
+===
 
 <span style="color: navy">教育经历</span>
 ---
