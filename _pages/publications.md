@@ -6,11 +6,9 @@ author_profile: true
 ---
 科研成果
 ===
-
-<span style="color: navy">期刊论文</span>
 ---
 
-| |
+|<span style="color: navy">期刊论文</span>|
 | :---- |
 |**Ruixiang Li**, Haitao Zhao, Xiaoye. Zhang, Xiaosan Ge, Zhanliang Yuan and Qin Zou. [Automatic Matching of Multispectral Images Based on Nonlinear Diffusion of Image Structures](https://ieeexplore.ieee.org/document/9286545/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022.|
 |**李瑞祥**, 赵海涛, 葛小三, 袁占良. [多匹配策略融合的无人机影像匹配方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHbrORX0cPd4bIsXNIcym4hEp2C733qF6u3M6YJf_L8fx&uniplatform=NZKPT). 测绘科学, 2021.|
