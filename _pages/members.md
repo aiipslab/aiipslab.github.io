@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "成员介绍
-"
+title: "成员介绍"
 permalink: /members/
 author_profile: true
 ---
