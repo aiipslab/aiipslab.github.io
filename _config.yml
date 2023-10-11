@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AIIPSLab"
+title                    : "首页"
 title_separator          : "-"
 name                     : &name " "
 description              : &description " "
