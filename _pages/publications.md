@@ -9,20 +9,9 @@ author_profile: true
 
 | |
 | :---- |
-|**Xin Cao※**. “[Self-Supervised Triplet Contrastive Learning for Classifying Endometrial Histopathological Images]()”, IEEE Journal of Biomedical and Health Informatics. (2023). |
-|*. “[Gates joint locally connected network for accurate and robust reconstruction in optical molecular tomography]()”, Journal of Innovative Optical Health Sciences. (2023). |
-|Jun Zhang, Gege Zhang, Yi Chen, Kang Li, Fengjun Zhao, Huangjian Yi, Linzhi Su※ and **Xin Cao※**. “[Regularized reconstruction based on joint smoothly clipped absolute deviation regularization and graph manifold learning for Fluorescence Molecular Tomography](https://caoxin918.github.io/files/张俊pmb2023.pdf)”, Physics in Medicine and Biology. (2023). |
-|Yi Chen, Mengfei Du, Gege Zhang, Jun Zhang, Kang Li※, Linzhi Su※, Fengjun Zhao, Huangjian Yi and **Xin Cao※**. “[Sparse reconstruction based on dictionary learning and group structure strategy for cone-beam X-ray luminescence computed tomography]()”, Optics Express. (2023). |
-|Jie Liu+,Da Song+, Guohua Geng※, Yu Tian, Mengna Yang,  Yangyang Liu, Mingquan Zhou, Kang Li and **Xin Cao※**. “[TGPS: Dynamic Point Cloud Down-sampling of the dense point clouds for Terracotta Warrior fragments]()”, Optics Express. (2023). |
-|Yi Chen, Mengfei Du, Jun Zhang, Gege Zhangn, Linzhi Su※, Kang Li, Fengjun Zhao, Huangjian Yi, Lin Wang and **Xin Cao※**. “[Generalized Conditional Gradient Method with Adaptive Regularization Parameters for Fluorescence Molecular Tomography]()”, Optics Express. (2023). |   
-        
-国内期刊
-===
-
-|  |
-| :---- |
-| 杨佳楠；王忠昊 ；王昊霖 ；耿国华；**曹欣※**。["改进BYOL的非小细胞肺癌表皮生长因子受体基因突变预测方法”](https://caoxin918.github.io/files/2022杨佳楠.pdf)。光学精密工程，2022 | 
-| 李伟童；王昊霖 ；李康 ；耿国华；周明全 ；**曹欣※**。["基于局部连接网络的切伦科夫荧光断层成像方法"](https://caoxin918.github.io/files/基于局部连接.pdf)。激光与光电子学进展，2021 |  
+|**Ruixiang Li**, Haitao Zhao, X. Zhang, Xiaosan Ge, Zhanliang Yuan and Qin Zou. “[Automatic Matching of Multispectral Images Based on Nonlinear Diffusion of Image Structures]()”. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (2021). |
+|**李瑞祥**，赵海涛，葛小三，袁占良.多匹配策略融合的无人机影像匹配方法. 测绘科学, 2021, 46(3): 87-95. |
+|王书涛,康旺,孔德明,王铁柱,李瑞祥.基于回归克里金的高分-1影像融合. 激光与光电子学进展, 2021. |
 
 会议论文
 ===
