@@ -1,11 +1,9 @@
 ---
 layout: single
-title: ""
+title: "AIIPSLab"
 permalink: /
 author_profile: true
 ---
-AIIPSLab
-===
 
 <span style="color: navy">团队介绍</span>
 ---
