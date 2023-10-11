@@ -9,8 +9,8 @@ main:
   - title: "科研成果"
     url: /publications/
     
-  - title: "CV"
-    url: /cv/
+# - title: "CV"
+#    url: /cv/
 
   - title: "招生信息"
     url: /enrollment/
