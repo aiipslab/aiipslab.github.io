@@ -10,7 +10,7 @@ author_profile: true
 
 <span style="color: navy">一、遥感影像精准处理</span>
 ---
-+ 多模态影像精细化处理、多模态影像定量化提升、多模态遥感数据智能处理系统(EvoIPS)
++ 多模态影像精细化处理、多模态影像定量化提升、多模态遥感数据智能处理系统（EvoIPS）
 ![avatar](/images/医学影像.jpg)
 
 <span style="color: navy">二、多模态遥感数据融合</span>
